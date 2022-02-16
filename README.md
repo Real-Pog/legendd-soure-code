@@ -27,7 +27,7 @@ _____________________________________
 yea yea whateverrrrrrrrrrrrrrr
 
 this mod is called vs legend
-(https://user-images.githubusercontent.com/93828872/154289479-01935edc-ac85-4468-9f52-42805eb3aead.png)
+![](https://user-images.githubusercontent.com/93828872/154289479-01935edc-ac85-4468-9f52-42805eb3aead.png)
 say hi to him please
 anywayssssss
 this mod has new features
