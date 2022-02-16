@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene_APPERANCE.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teleportation0000" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0001" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0002" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0003" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0004" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0005" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0006" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0007" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0008" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0009" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0010" x="0" y="0" width="200" height="139" frameX="-914" frameY="-325" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0011" x="0" y="0" width="200" height="139" frameX="-914" frameY="-325" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0012" x="200" y="0" width="260" height="169" frameX="-884" frameY="-310" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0013" x="200" y="0" width="260" height="169" frameX="-884" frameY="-310" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0014" x="460" y="0" width="310" height="199" frameX="-859" frameY="-295" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0015" x="770" y="0" width="342" height="231" frameX="-843" frameY="-279" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0016" x="1112" y="0" width="1461" height="675" frameX="-283" frameY="-57" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0017" x="0" y="675" width="2027" height="789"/>
+	<SubTexture name="teleportation0018" x="2027" y="675" width="688" height="534" frameX="-849" frameY="-186" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0019" x="2715" y="675" width="879" height="534" frameX="-762" frameY="-186" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0020" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0021" x="0" y="0" width="0" height="0" frameX="-1362" frameY="-584" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0022" x="0" y="1464" width="1027" height="488" frameX="-597" frameY="-206" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0023" x="1027" y="1464" width="661" height="455" frameX="-810" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0024" x="1688" y="1464" width="457" height="455" frameX="-933" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0025" x="2145" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0026" x="2526" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0027" x="2907" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0028" x="2145" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0029" x="2526" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0030" x="2907" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0031" x="2145" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0032" x="2526" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+	<SubTexture name="teleportation0033" x="2907" y="1464" width="381" height="455" frameX="-1009" frameY="-224" frameWidth="2027" frameHeight="789"/>
+</TextureAtlas>

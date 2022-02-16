@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "die"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "die loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "revive"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/legendAnnihilated",
+	"position": [
+		0,
+		550
+	],
+	"healthicon": "legend",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-300,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="koraki rageguy.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="koraki rageguy annihilation0000" x="0" y="0" width="492" height="788" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0001" x="492" y="0" width="492" height="788" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0002" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0003" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0004" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0005" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0006" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0007" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0008" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0009" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0010" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0011" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0012" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0013" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0014" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0015" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0016" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0017" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0018" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0019" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0020" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0021" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0022" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0023" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0024" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0025" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy annihilation0026" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0027" x="984" y="0" width="1183" height="1098" frameX="0" frameY="0" frameWidth="1188" frameHeight="1591"/>
+	<SubTexture name="koraki rageguy annihilation0028" x="2167" y="0" width="1188" height="1591"/>
+	<SubTexture name="koraki rageguy down0000" x="3355" y="0" width="529" height="820"/>
+	<SubTexture name="koraki rageguy down0001" x="0" y="1591" width="529" height="820"/>
+	<SubTexture name="koraki rageguy down0002" x="3355" y="0" width="529" height="820"/>
+	<SubTexture name="koraki rageguy down0003" x="0" y="1591" width="529" height="820"/>
+	<SubTexture name="koraki rageguy down0004" x="3355" y="0" width="529" height="820"/>
+	<SubTexture name="koraki rageguy idle0000" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0001" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0002" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0003" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0004" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0005" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0006" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0007" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0008" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0009" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0010" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0011" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0012" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0013" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0014" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0015" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0016" x="1021" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy idle0017" x="529" y="1591" width="492" height="788"/>
+	<SubTexture name="koraki rageguy left0000" x="1513" y="1591" width="634" height="785"/>
+	<SubTexture name="koraki rageguy left0001" x="2147" y="1591" width="634" height="785"/>
+	<SubTexture name="koraki rageguy right0000" x="2781" y="1591" width="984" height="1083"/>
+	<SubTexture name="koraki rageguy right0001" x="0" y="2674" width="984" height="1083"/>
+	<SubTexture name="koraki rageguy right0002" x="2781" y="1591" width="984" height="1083"/>
+	<SubTexture name="koraki rageguy right0003" x="0" y="2674" width="984" height="1083"/>
+	<SubTexture name="koraki rageguy right0004" x="2781" y="1591" width="984" height="1083"/>
+	<SubTexture name="koraki rageguy up0000" x="984" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0001" x="1476" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0002" x="984" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0003" x="1476" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0004" x="984" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0005" x="1476" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0006" x="984" y="2674" width="492" height="777"/>
+	<SubTexture name="koraki rageguy up0007" x="1476" y="2674" width="492" height="777"/>
+</TextureAtlas>
