@@ -42,10 +42,15 @@ and stuffffffffffffff
 
 -credits-
 respectrox -artst / animator
+
 hafimie
+
 legend
+
 real-pog -Coder, Artist, Composer, charter, Animator
+
 racky - Charter
+
 crushermods - stage coder and coder
 
 enjoy mod and stuff
