@@ -33,7 +33,7 @@ Anywayssssss
 This mod has new features
 * Scrollbars
 * Cool settings
-* New menus // fuck my ass misspell 😫
+* New menus 
 * Achievements
 And cool shit
 
