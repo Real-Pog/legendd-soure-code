@@ -33,7 +33,7 @@ Anywayssssss
 This mod has new features
 * Scrollbars
 * Cool settings
-* Mew menus
+* New menus // fuck my ass misspell 😫
 * Achievements
 And cool shit
 
@@ -45,7 +45,7 @@ RespectRox - Artist / Animator
 
 Hafimie - Coder
 
-Legend
+Legend - Artist Composer
 
 Real-pog -Coder, Artist, Composer, Charter, Animator
 
