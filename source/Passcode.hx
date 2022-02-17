@@ -35,7 +35,7 @@ if(secretStuff<secArr.length) {
             stopspamming = true;
         }
 
-        // We can't use Dynamic Array .copy() because that crashes HTML5, here's a workaround.
+        // We can't use Dynamic Array .copy() because that crashes HTML5, here's a workaround
         var songArray:Array<String> = [];
         var leWeek:Array<Dynamic> = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]).songs;
         for (i in 0...leWeek.length) {
