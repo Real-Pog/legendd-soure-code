@@ -68,7 +68,7 @@ class Note extends FlxSprite
 
 	public var noAnimation:Bool = false;
 	public var hitCausesMiss:Bool = false;
-	public var distance:Float = 2000;//plan on doing scroll directions soon -bb
+	public var distance:Float = 2000;//plan on doing scroll directions soon -bb 
 
 	private function set_texture(value:String):String {
 		if(texture != value) {
@@ -78,7 +78,7 @@ class Note extends FlxSprite
 		return value;
 	}
 
-	private function set_noteType(value:String):String {
+	private function set_noteType(value:String):String { // HAH YOU LOOKED 
 		noteSplashTexture = PlayState.SONG.splashSkin;
 		colorSwap.hue = ClientPrefs.arrowHSV[noteData % 4][0] / 360;
 		colorSwap.saturation = ClientPrefs.arrowHSV[noteData % 4][1] / 100;
