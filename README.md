@@ -22,35 +22,35 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 * PolybiusProxy - .MP4 Loader Extension
 * Keoiki - Note Splash Animations!
 
-_____________________________________
+# Vs Legend
 
-yea yea whateverrrrrrrrrrrrrrr
+Yea yea whateverrrrrrrrrrrrrrr
 
-this mod is called vs legend
+This mod is called **Vs Legend**
 ![](https://user-images.githubusercontent.com/93828872/154289479-01935edc-ac85-4468-9f52-42805eb3aead.png)
-say hi to him please
-anywayssssss
-this mod has new features
-scrollbars
-cool settings
-new menus
-achievements
-and cool shit
+Say hi to him please
+Anywayssssss
+This mod has new features
+* Scrollbars
+* Cool settings
+* Mew menus
+* Achievements
+And cool shit
 
-awsome art
+Awsome art
 and stuffffffffffffff
 
--credits-
-respectrox -artst / animator
+# Credits:
+RespectRox - Artist / Animator
 
-hafimie
+Hafimie - Coder
 
-legend
+Legend
 
-real-pog -Coder, Artist, Composer, charter, Animator
+Real-pog -Coder, Artist, Composer, Charter, Animator
 
-racky - Charter
+Racky - Charter
 
-crushermods - stage coder and coder
+CrusherMods - Stage Coder and Coder
 
-enjoy mod and stuff
+Enjoy mod and stuff
