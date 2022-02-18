@@ -4,6 +4,6 @@ labels: [question]
 body:
   - type: textarea
     attributes:
-      label: What is your question?
+      label: What is your question about the mod?
     validations:
       required: true
