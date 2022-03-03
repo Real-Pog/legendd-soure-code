@@ -25,10 +25,10 @@ class OutdatedState extends MusicBeatState
 
 		warnText = new FlxText(0, 0, FlxG.width,
 			"Sup bro, looks like you tryna run a \n
-			demo version of A Legendary Mod (" + MainMenuState.legendVersion + "),\n 
+			demo version of A Legendary Mod (" + MainMenuState.legendVersion + "),\n
 			please update to " + TitleState.updateVersion + " For AWSOME SHIT because the new update is so cool\n
 			\n
-			Thank you for playing the mod1!11! -- crusher was here ",
+			Thank you for playing the mod1!11! -- crusher was here ", //its true I was here - CrusherMods
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
@@ -40,7 +40,7 @@ class OutdatedState extends MusicBeatState
 		if(!leftState) {
 			if (controls.ACCEPT || controls.BACK) {
 				leftState = true;
-				CoolUtil.browserLoad("https://github.com/ShadowMario/FNF-PsychEngine/releases"); //fuhh we need a link, what is a link that we can put? // uhhhhhhhhhhhhhhh idk how to  post source code tell me how? it just needs to go to the mod link so you can download the newest version ther
+				CoolUtil.browserLoad("https://github.com/Real-Pog/legendd-soure-code/releases");
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 				FlxTween.tween(warnText, {alpha: 0}, 1, {
 					onComplete: function (twn:FlxTween) {
