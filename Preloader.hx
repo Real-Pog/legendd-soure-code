@@ -1,4 +1,4 @@
-package ;
+package; // wait for hafimie
  
 import flixel.system.FlxBasePreloader;
 import openfl.display.Sprite;
