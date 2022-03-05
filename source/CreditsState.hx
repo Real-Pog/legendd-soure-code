@@ -83,7 +83,7 @@ class CreditsState extends MusicBeatState
 			['Legend',			'angyboiwtf',			'Artist, Animator, Composer',				'https://www.youtube.com/channel/UC2E8jSGom8Yzplvz1Txf1SA',			'301934'],
 			['Affiliate TA',			'affiliate',		'Coder, Artist, Composer, charter, Animator',					'https://twitter.com/azerrr58325843',		'333333'],
 			['RespectRox',			'Respectrox',			'Artist, Animator',				'https://twitter.com/RespectroxDraws',			'FF69B4'],
-			['Racky',			'racky',			'Charter',				'https://gamebanana.com/members/2002271',			'FFAEFB'],
+			['Racky',			'racky',			'Charter',				'https://gamebanana.com/members/2002271',			'FFAEFB'], // good coder
 			['CrusherMods', 'crusher', 'Stage Coder', 'https://github.com/CrusherMods', '0000FF'],
 			['Hafimie',		'hafmi',		'Programmer -- does the hardcoding stuff--',						'https://www.youtube.com/channel/UC602IgT2OauKy9KTSH7J2fQ/featured',	'D1F3C5'],
 			[''],
